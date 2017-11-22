@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": null,
+          "revision": "b8995447518fd57af14c88a47f27434a16f60403",
+          "version": "4.5.1"
+        }
+      },
+      {
+        "package": "Rainbow",
+        "repositoryURL": "https://github.com/onevcat/Rainbow",
+        "state": {
+          "branch": null,
+          "revision": "dfe579abc72347618e0ffde4faa36fa085c5f3bc",
+          "version": "3.0.0"
+        }
+      },
+      {
+        "package": "SwiftCLI",
+        "repositoryURL": "https://github.com/jakeheis/SwiftCLI",
+        "state": {
+          "branch": null,
+          "revision": "a84dc5ace202e8f095f32909c9f45f678e5097e4",
+          "version": "4.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
